@@ -35,7 +35,7 @@ Welcome to our comprehensive spreadsheet lesson, designed for beginner to advanc
 - Visualizing Data Trends Through Charts
 
 
-5. Advanced Data Transformation Techniques:
+5. Full Data Transformations Technique in Google Sheets:
 
 
 6. Building a Personal To-Do App:
