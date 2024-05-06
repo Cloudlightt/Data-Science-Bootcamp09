@@ -51,9 +51,9 @@ Welcome to our comprehensive spreadsheet lesson, designed for beginner to advanc
 - [Query in Google Sheets](https://docs.google.com/spreadsheets/d/17EM2XVwrwS9wJsub9UXGdRSIBxKdVcrN73jgnC4h28M/edit#gid=0)
 - [Pivot and Chart in Google Sheets](https://docs.google.com/spreadsheets/d/1zpQK-RtAfDN--TiVYVeSO3wd5jFSBYM9y_yDiifDKU8/edit#gid=0&fvid=1587841135)
 - [Full Data Transformations Technique in Google Sheets](https://docs.google.com/spreadsheets/d/1NbtTVmxtulRj2-Uiz34rEDX1DiKTKkBqQaE4_1gAy5M/edit#gid=0)
+- [TO-DO Application](https://docs.google.com/spreadsheets/d/1N9Qs9N7qrhAvioaFxbbpnqgMmet75o2b954Lo2nHX_o/edit#gid=0)
 
 ## Project
-- [TO-DO Application](https://docs.google.com/spreadsheets/d/1N9Qs9N7qrhAvioaFxbbpnqgMmet75o2b954Lo2nHX_o/edit#gid=0)
 - [Project - Filtering and Sorting](https://docs.google.com/spreadsheets/d/1zKASgJphy8jqe829zaxF82d6G1jbhKPhfD208Dj3MdU/edit#gid=940889214)
 - [Project - Dynamic Query](https://docs.google.com/spreadsheets/d/1N7FbliViQEZ5zregRW-nccZL3A3Om1arz-SVqF1uwUY/edit#gid=1990909663)
 - [Project - Enriching Our Data with VLOOKUP](https://docs.google.com/spreadsheets/d/1EvS6vXIgkSkANZM_4SrszC8xVcpmi5PD_T8HFLKtZVQ/edit#gid=361292248)
