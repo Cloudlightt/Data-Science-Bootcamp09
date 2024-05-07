@@ -39,6 +39,6 @@ This project revolves around managing Pizza orders. It leverages SQL techniques 
 - ![Query 5](https://img.shields.io/badge/Query%205-%20%20Find%20France%20customers%20who%20purchase%20our%20products%20in%202023.%20-%20white?style=social)
 
 
-## Project details
+## Project details 👨‍🍳🍕🍅🧀
 [Project Subqueries Pizza Data in SQLite Replit](https://www.notion.so/Project-Subqueries-Pizza-Data-in-SQLite-Replit-56a2328b54dd4afcb0eab3cd09afd001?pvs=4)
 
