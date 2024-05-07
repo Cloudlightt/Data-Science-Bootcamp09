@@ -66,7 +66,8 @@ Welcome to our comprehensive spreadsheet lesson, designed for beginner to advanc
 
 ## Project
 
-![Filtering and Sorting](https://img.shields.io/badge/Filtering%20and%20Sorting-%233A5311?logo=google&logoColor=white&link=https://docs.google.com/spreadsheets/d/1zKASgJphy8jqe829zaxF82d6G1jbhKPhfD208Dj3MdU/edit#gid=940889214)
+[![Filtering and Sorting](https://img.shields.io/badge/Filtering%20and%20Sorting-%20%23222d0b?style=flat&logo=google&logoColor=white)
+](https://docs.google.com/spreadsheets/d/1zKASgJphy8jqe829zaxF82d6G1jbhKPhfD208Dj3MdU/edit#gid=940889214)
 
 [![Dynamic query](https://img.shields.io/badge/Dynamic%20Query-%20%2344D62C?style=flat&logo=google&logoColor=white)
 ](https://docs.google.com/spreadsheets/d/1N7FbliViQEZ5zregRW-nccZL3A3Om1arz-SVqF1uwUY/edit#gid=1990909663)
