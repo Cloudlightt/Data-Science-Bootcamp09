@@ -29,6 +29,7 @@ This project revolves around managing Pizza orders. It leverages SQL techniques 
 - Query 5: Find France customers who purchase our products in 2023.
 
 
+
 ## Project details
 [Project Subqueries Pizza Data in SQLite Replit](https://www.notion.so/Project-Subqueries-Pizza-Data-in-SQLite-Replit-56a2328b54dd4afcb0eab3cd09afd001?pvs=4)
 
