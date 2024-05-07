@@ -53,16 +53,6 @@ Welcome to our comprehensive spreadsheet lesson, designed for beginner to advanc
 - [Full Data Transformations Technique in Google Sheets](https://docs.google.com/spreadsheets/d/1NbtTVmxtulRj2-Uiz34rEDX1DiKTKkBqQaE4_1gAy5M/edit#gid=0)
 - [TO-DO Application](https://docs.google.com/spreadsheets/d/1N9Qs9N7qrhAvioaFxbbpnqgMmet75o2b954Lo2nHX_o/edit#gid=0)
 
-## Project
-- [Project - Filtering and Sorting](https://docs.google.com/spreadsheets/d/1zKASgJphy8jqe829zaxF82d6G1jbhKPhfD208Dj3MdU/edit#gid=940889214)
-  
-- [Project - Dynamic Query](https://docs.google.com/spreadsheets/d/1N7FbliViQEZ5zregRW-nccZL3A3Om1arz-SVqF1uwUY/edit#gid=1990909663)
-- [Project - Enriching Our Data with VLOOKUP](https://docs.google.com/spreadsheets/d/1EvS6vXIgkSkANZM_4SrszC8xVcpmi5PD_T8HFLKtZVQ/edit#gid=361292248)
-- [Project - Convert TH to EN Date](https://docs.google.com/spreadsheets/d/13AHmZBVuSWaz9XFSD887ky5yzz-BkZiTaTTo_DHKN_0/edit#gid=239684189)
-- [Project - ID Card Parser](https://docs.google.com/spreadsheets/d/1vKrIHU0G0viLzwx_g1sT2KBZiVN7FLZIkb22PMygtaw/edit#gid=1259115608)
-- [Project - Google Translate](https://docs.google.com/spreadsheets/d/1PGDH3y0DaV0ec9XJ3TMAGxFV7pb5Jbt_BTdQxKugHRI/edit#gid=1644469641)
-- [Project - New Function](https://docs.google.com/spreadsheets/d/1qEqtrWSwVCmemvQYAyDgVSEc_87Z7cYAVPNt_HRBE0g/edit#gid=1671185252)
-
 
 ## Project
 
