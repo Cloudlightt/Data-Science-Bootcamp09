@@ -66,7 +66,7 @@ Welcome to our comprehensive spreadsheet lesson, designed for beginner to advanc
 
 ## Project
 
-![Filtering and Sorting](https://img.shields.io/badge/Filtering%20and%20Sorting-%233A5311?logo=google&logoColor=white&link=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1zKASgJphy8jqe829zaxF82d6G1jbhKPhfD208Dj3MdU%2Fedit%23gid%3D940889214)
+![Filtering and Sorting](https://img.shields.io/badge/Filtering%20and%20Sorting-%233A5311?logo=google&logoColor=white&link=https://docs.google.com/spreadsheets/d/1zKASgJphy8jqe829zaxF82d6G1jbhKPhfD208Dj3MdU/edit#gid=940889214)
 
 
 ![Enriching Our Data with VLOOKUP](https://img.shields.io/badge/Enriching%20Our%20Data%20with%20VLOOKUP-%23008208?style=flat&logo=google&logoColor=white&link=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1EvS6vXIgkSkANZM_4SrszC8xVcpmi5PD_T8HFLKtZVQ%2Fedit%23gid%3D361292248)
@@ -81,7 +81,7 @@ Welcome to our comprehensive spreadsheet lesson, designed for beginner to advanc
 ![Google Translate](https://img.shields.io/badge/Google%20Translate-%20%233b4e13?style=flat&logo=google&logoColor=white&link=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1PGDH3y0DaV0ec9XJ3TMAGxFV7pb5Jbt_BTdQxKugHRI%2Fedit%23gid%3D1644469641)
 
 
-![New Function](https://img.shields.io/badge/New%20Function-%20%23bcde78?style=flat&logo=google&logoColor=white&link=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1qEqtrWSwVCmemvQYAyDgVSEc_87Z7cYAVPNt_HRBE0g%2Fedit%23gid%3D1671185252)
+[![New Function](https://img.shields.io/badge/New%20Function-%20%23bcde78?style=flat&logo=google&logoColor=white&link=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1qEqtrWSwVCmemvQYAyDgVSEc_87Z7cYAVPNt_HRBE0g%2Fedit%23gid%3D1671185252)](https://docs.google.com/spreadsheets/d/1qEqtrWSwVCmemvQYAyDgVSEc_87Z7cYAVPNt_HRBE0g/edit#gid=1671185252)
 
 
 
