@@ -66,26 +66,26 @@ Welcome to our comprehensive spreadsheet lesson, designed for beginner to advanc
 
 ## Project
 
-[![Filtering and Sorting](https://img.shields.io/badge/Filtering%20and%20Sorting-%20%23222d0b?style=flat&logo=google&logoColor=white)
+[![Filtering and Sorting](https://img.shields.io/badge/Filtering%20and%20Sorting-%20%23006b2e?style=flat&logo=google&logoColor=white)
 ](https://docs.google.com/spreadsheets/d/1zKASgJphy8jqe829zaxF82d6G1jbhKPhfD208Dj3MdU/edit#gid=940889214)
 
-[![Dynamic query](https://img.shields.io/badge/Dynamic%20Query-%20%2344D62C?style=flat&logo=google&logoColor=white)
+[![Dynamic query](https://img.shields.io/badge/Dynamic%20Query-%20%23008e3e?style=flat&logo=google&logoColor=white)
 ](https://docs.google.com/spreadsheets/d/1N7FbliViQEZ5zregRW-nccZL3A3Om1arz-SVqF1uwUY/edit#gid=1990909663)
 
-[![Enriching Our Data with VLOOKUP](https://img.shields.io/badge/Enriching%20Our%20Data%20with%20VLOOKUP-%20%230B9A6D?style=flat&logo=google&logoColor=white)
+[![Enriching Our Data with VLOOKUP](https://img.shields.io/badge/Enriching%20Our%20Data%20with%20VLOOKUP-%20%2300b24d?style=flat&logo=google&logoColor=white)
 ](https://docs.google.com/spreadsheets/d/1EvS6vXIgkSkANZM_4SrszC8xVcpmi5PD_T8HFLKtZVQ/edit#gid=361292248)
 
 
-[![Convert TH to EN Date](https://img.shields.io/badge/Convert%20TH%20to%20EN%20Date-%20%230B9A6D?style=flat&logo=google&logoColor=white&link=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F13AHmZBVuSWaz9XFSD887ky5yzz-BkZiTaTTo_DHKN_0%2Fedit%23gid%3D239684189)](https://docs.google.com/spreadsheets/d/13AHmZBVuSWaz9XFSD887ky5yzz-BkZiTaTTo_DHKN_0/edit#gid=239684189)
+[![Convert TH to EN Date](https://img.shields.io/badge/Convert%20TH%20to%20EN%20Date-%20%2300d65d?style=flat&logo=google&logoColor=white&link=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F13AHmZBVuSWaz9XFSD887ky5yzz-BkZiTaTTo_DHKN_0%2Fedit%23gid%3D239684189)](https://docs.google.com/spreadsheets/d/13AHmZBVuSWaz9XFSD887ky5yzz-BkZiTaTTo_DHKN_0/edit#gid=239684189)
 
 
-[![ID Card Parser](https://img.shields.io/badge/ID%20Card%20Parser-%20%237BBD00?style=flat&logo=google&logoColor=white&link=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1vKrIHU0G0viLzwx_g1sT2KBZiVN7FLZIkb22PMygtaw%2Fedit%23gid%3D1259115608)](https://docs.google.com/spreadsheets/d/1vKrIHU0G0viLzwx_g1sT2KBZiVN7FLZIkb22PMygtaw/edit#gid=1259115608)
+[![ID Card Parser](https://img.shields.io/badge/ID%20Card%20Parser-%20%2300b271?style=flat&logo=google&logoColor=white&link=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1vKrIHU0G0viLzwx_g1sT2KBZiVN7FLZIkb22PMygtaw%2Fedit%23gid%3D1259115608)](https://docs.google.com/spreadsheets/d/1vKrIHU0G0viLzwx_g1sT2KBZiVN7FLZIkb22PMygtaw/edit#gid=1259115608)
 
 
-[![Google Translate](https://img.shields.io/badge/Google%20Translate-%20%233b4e13?style=flat&logo=google&logoColor=white&link=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1PGDH3y0DaV0ec9XJ3TMAGxFV7pb5Jbt_BTdQxKugHRI%2Fedit%23gid%3D1644469641)](https://docs.google.com/spreadsheets/d/1PGDH3y0DaV0ec9XJ3TMAGxFV7pb5Jbt_BTdQxKugHRI/edit#gid=1644469641)
+[![Google Translate](https://img.shields.io/badge/Google%20Translate-%20%2300d69a?style=flat&logo=google&logoColor=white&link=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1PGDH3y0DaV0ec9XJ3TMAGxFV7pb5Jbt_BTdQxKugHRI%2Fedit%23gid%3D1644469641)](https://docs.google.com/spreadsheets/d/1PGDH3y0DaV0ec9XJ3TMAGxFV7pb5Jbt_BTdQxKugHRI/edit#gid=1644469641)
 
 
-[![New function](https://img.shields.io/badge/New%20function-%20%2390A82E?style=flat&logo=google&logoColor=white)
+[![New function](https://img.shields.io/badge/New%20function-%20%2300d6ab?style=flat&logo=google&logoColor=white)
 ](https://docs.google.com/spreadsheets/d/1qEqtrWSwVCmemvQYAyDgVSEc_87Z7cYAVPNt_HRBE0g/edit#gid=1671185252)
 
 
