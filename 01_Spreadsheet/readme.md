@@ -72,9 +72,8 @@ Welcome to our comprehensive spreadsheet lesson, designed for beginner to advanc
 [![Dynamic query](https://img.shields.io/badge/Dynamic%20Query-%20%2344D62C?style=flat&logo=google&logoColor=white)
 ](https://docs.google.com/spreadsheets/d/1N7FbliViQEZ5zregRW-nccZL3A3Om1arz-SVqF1uwUY/edit#gid=1990909663)
 
-
-[![Enriching Our Data with VLOOKUP](https://img.shields.io/badge/Enriching%20Our%20Data%20with%20VLOOKUP-%23008208?style=flat&logo=google&logoColor=white&link=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1EvS6vXIgkSkANZM_4SrszC8xVcpmi5PD_T8HFLKtZVQ%2Fedit%23gid%3D361292248)]((https://docs.google.com/spreadsheets/d/1EvS6vXIgkSkANZM_4SrszC8xVcpmi5PD_T8HFLKtZVQ/edit#gid=361292248))
-
+[![Enriching Our Data with VLOOKUP](https://img.shields.io/badge/Enriching%20Our%20Data%20with%20VLOOKUP-%20%230B9A6D?style=flat&logo=google&logoColor=white)
+](https://docs.google.com/spreadsheets/d/1EvS6vXIgkSkANZM_4SrszC8xVcpmi5PD_T8HFLKtZVQ/edit#gid=361292248)
 
 
 [![Convert TH to EN Date](https://img.shields.io/badge/Convert%20TH%20to%20EN%20Date-%20%230B9A6D?style=flat&logo=google&logoColor=white&link=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F13AHmZBVuSWaz9XFSD887ky5yzz-BkZiTaTTo_DHKN_0%2Fedit%23gid%3D239684189)](https://docs.google.com/spreadsheets/d/13AHmZBVuSWaz9XFSD887ky5yzz-BkZiTaTTo_DHKN_0/edit#gid=239684189)
