@@ -55,9 +55,38 @@ Welcome to our comprehensive spreadsheet lesson, designed for beginner to advanc
 
 ## Project
 - [Project - Filtering and Sorting](https://docs.google.com/spreadsheets/d/1zKASgJphy8jqe829zaxF82d6G1jbhKPhfD208Dj3MdU/edit#gid=940889214)
+  
 - [Project - Dynamic Query](https://docs.google.com/spreadsheets/d/1N7FbliViQEZ5zregRW-nccZL3A3Om1arz-SVqF1uwUY/edit#gid=1990909663)
 - [Project - Enriching Our Data with VLOOKUP](https://docs.google.com/spreadsheets/d/1EvS6vXIgkSkANZM_4SrszC8xVcpmi5PD_T8HFLKtZVQ/edit#gid=361292248)
 - [Project - Convert TH to EN Date](https://docs.google.com/spreadsheets/d/13AHmZBVuSWaz9XFSD887ky5yzz-BkZiTaTTo_DHKN_0/edit#gid=239684189)
 - [Project - ID Card Parser](https://docs.google.com/spreadsheets/d/1vKrIHU0G0viLzwx_g1sT2KBZiVN7FLZIkb22PMygtaw/edit#gid=1259115608)
 - [Project - Google Translate](https://docs.google.com/spreadsheets/d/1PGDH3y0DaV0ec9XJ3TMAGxFV7pb5Jbt_BTdQxKugHRI/edit#gid=1644469641)
 - [Project - New Function](https://docs.google.com/spreadsheets/d/1qEqtrWSwVCmemvQYAyDgVSEc_87Z7cYAVPNt_HRBE0g/edit#gid=1671185252)
+
+
+## Project
+
+![Filtering and Sorting](https://img.shields.io/badge/Filtering%20and%20Sorting-%233A5311?logo=google&logoColor=white&link=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1zKASgJphy8jqe829zaxF82d6G1jbhKPhfD208Dj3MdU%2Fedit%23gid%3D940889214)
+
+
+![Enriching Our Data with VLOOKUP](https://img.shields.io/badge/Enriching%20Our%20Data%20with%20VLOOKUP-%23008208?style=flat&logo=google&logoColor=white&link=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1EvS6vXIgkSkANZM_4SrszC8xVcpmi5PD_T8HFLKtZVQ%2Fedit%23gid%3D361292248)
+
+
+![Convert TH to EN Date](https://img.shields.io/badge/Convert%20TH%20to%20EN%20Date-%20%230B9A6D?style=flat&logo=google&logoColor=white&link=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F13AHmZBVuSWaz9XFSD887ky5yzz-BkZiTaTTo_DHKN_0%2Fedit%23gid%3D239684189)
+
+
+![ID Card Parser](https://img.shields.io/badge/ID%20Card%20Parser-%20%237BBD00?style=flat&logo=google&logoColor=white&link=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1vKrIHU0G0viLzwx_g1sT2KBZiVN7FLZIkb22PMygtaw%2Fedit%23gid%3D1259115608)
+
+
+![Google Translate](https://img.shields.io/badge/Google%20Translate-%20%233b4e13?style=flat&logo=google&logoColor=white&link=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1PGDH3y0DaV0ec9XJ3TMAGxFV7pb5Jbt_BTdQxKugHRI%2Fedit%23gid%3D1644469641)
+
+
+![New Function](https://img.shields.io/badge/New%20Function-%20%23bcde78?style=flat&logo=google&logoColor=white&link=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1qEqtrWSwVCmemvQYAyDgVSEc_87Z7cYAVPNt_HRBE0g%2Fedit%23gid%3D1671185252)
+
+
+
+
+
+
+
+
