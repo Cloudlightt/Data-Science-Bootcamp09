@@ -1,4 +1,4 @@
-## R Programming
+# R Programming
 
 I would love to present 2 projects developed by R Programming.
 - Rock, Paper, Scissors ✊🖐️✌️
