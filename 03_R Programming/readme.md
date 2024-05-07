@@ -7,6 +7,6 @@ I would love to present 2 projects developed by R Programming.
 Through these creative applications of R programming, discover the endless possibilities of coding beyond conventional boundaries.
 
 
-[![Project details](https://img.shields.io/badge/%E2%9E%A1%EF%B8%8FProject%20details%E2%AC%85%EF%B8%8F%20-%09%09%23008000?style=for-the-badge)](https://colab.research.google.com/drive/1HlgEMcYgo-5qWUtL-v4yjM9D0mt1PVJK?authuser=1#scrollTo=LShe7oya9Mip&uniqifier=2)
+[![Project details](https://img.shields.io/badge/%E2%9E%A1%EF%B8%8FProject%20details%E2%AC%85%EF%B8%8F%20-%09%09%23c0c0c0?style=for-the-badge)](https://colab.research.google.com/drive/1HlgEMcYgo-5qWUtL-v4yjM9D0mt1PVJK?authuser=1#scrollTo=LShe7oya9Mip&uniqifier=2)
 
 
