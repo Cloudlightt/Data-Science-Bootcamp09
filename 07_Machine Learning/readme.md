@@ -1,12 +1,12 @@
 # Machine Learning
 
-This project dives into machine learning, employing a Workflow: Train-Test-Split method to construct a Supervised Learning model for predicting churn data. 
-Churn data represents the rate at which customers discontinue using UCI's telephone service, resembling real customer profiles.
+This project dives into machine learning, employing a Workflow: Train-Test-Split method to construct a Supervised Learning model for predicting "Churn" data. 
+
+"Churn" data represents the rate at which customers discontinue using UCI's telephone service, resembling real customer profiles.
 
 Our model development unfolds across three key areas:
 
-## 1. Generalized Linear Model (GLM) Algorithm.
-
+## 1. Generalized Linear Model (glm) Algorithm.
 - Leveraging Supervised Learning for classification.
 - Employing Resampling Techniques:
   
@@ -24,7 +24,7 @@ Our model development unfolds across three key areas:
 
 
 
-## 3. Generalized Linear Model (GLM) Algorithm.
+## 3. Generalized Linear Model (glm) Algorithm.
 - Leveraging Supervised Learning for classification.
 - Employing Resampling Techniques:
   
