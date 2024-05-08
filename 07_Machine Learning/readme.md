@@ -5,7 +5,7 @@ Churn data represents the rate at which customers discontinue using UCI's teleph
 
 Our model development unfolds across three key areas:
 
-## 1. Generalized Linear Model (GLM).
+## 1. Generalized Linear Model (GLM) Algorithm.
 
 - Leveraging Supervised Learning for classification.
 - Employing Resampling Techniques:
