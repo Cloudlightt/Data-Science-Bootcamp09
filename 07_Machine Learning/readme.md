@@ -98,8 +98,7 @@ The model was used on a sample dataset of 4,000 instances, divided into two grou
 - The low Kappa value (0.2626) indicates that the model still has issues with agreement with the actual values, especially for the 'Yes' class.
 
 
-
-# Suggestion
+## Suggestion
 Based on these results, there are the suggestion to provider hopefully can get the benefit as below:
 - Identify high-risk customers likely to churn and offer promotions or special incentives to retain them.
 - Enhance services to better meet customer needs, thereby reducing the likelihood of churn.
