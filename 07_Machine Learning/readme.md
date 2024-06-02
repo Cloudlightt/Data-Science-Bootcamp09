@@ -52,10 +52,7 @@ Based on these results, there are the suggestion to provider hopefully can get t
 ![Alt text](https://github.com/Cloudlightt/Data-Science-Bootcamp09/blob/main/07_Machine%20Learning/Homework_patr2_knn_model.png?raw=true)
 
 ### 2.1 Predictive Variables
-The k-NN model uses all 15 variables listed below to predict whether each customer is at risk of churning.
 
-
-### 2.2 Model 
 The dataset used for this churn analysis includes the following 15 variables:
 
 - voicemailplan: Voicemail plan
@@ -73,6 +70,10 @@ The dataset used for this churn analysis includes the following 15 variables:
 - totalintlcalls: Total number of international calls
 - totalintlcharge: Total international call charges
 - numbercustomerservicecalls: Number of customer service calls
+
+### 2.2 Model 
+
+This is an analysis of customer Churn for a mobile network using the k-Nearest Neighbors (k-NN) model to predict whether each customer is at risk of leaving the service. 
 
 ### 2.3 Results
 The analysis revealed that the k-NN model with the best performance uses k = 5. This means the model considers the 5 most similar customers to predict whether a new customer is at risk of churning.
