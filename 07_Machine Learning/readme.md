@@ -85,7 +85,7 @@ This optimal k-NN model achieves an accuracy of 88.5%, meaning it correctly pred
  
 ![Alt text](https://github.com/Cloudlightt/Data-Science-Bootcamp09/blob/main/07_Machine%20Learning/Homework_patr2.1_glm_model.png?raw=true)
 
-### 3.1 Predictive Variables
+### 3.1  Model & Predictive Variables
 Generalized Linear Model (GLM) Results for Predicting Churn
 This section presents the results of a Generalized Linear Model (GLM) used to predict churn, or the discontinuation of a mobile network service.
 
