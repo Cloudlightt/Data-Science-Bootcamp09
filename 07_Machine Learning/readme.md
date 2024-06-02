@@ -34,12 +34,6 @@ The model used to predict churn in this context is the "Generalized Linear Model
 ### 1.3. Results
 The GLM created has an accuracy of 85.82%, meaning the model can correctly predict churn in 85.82% of cases
 
-Based on these results, there are the suggestion to provider hopefully can get the benefit as below:
-- Identify high-risk customers likely to churn and offer promotions or special incentives to retain them.
-- Enhance services to better meet customer needs, thereby reducing the likelihood of churn.
-- Improve customer service efficiency to decrease the number of calls to customer support.
-
-
 
 ## 2. K-Nearest Neighbors (knn) Algorithm.
 - Leveraging Supervised Learning for classification.
@@ -102,4 +96,12 @@ The model was used on a sample dataset of 4,000 instances, divided into two grou
 - The model has good overall accuracy (Accuracy = 86.9%) and is capable of distinguishing between classes (AUC = 0.925).
 - The model has high accuracy in predicting the 'No' class (Recall = 0.9834), but there are limitations in predicting the 'Yes' class (Recall = 0.2069).
 - The low Kappa value (0.2626) indicates that the model still has issues with agreement with the actual values, especially for the 'Yes' class.
+
+
+
+# Suggestion
+Based on these results, there are the suggestion to provider hopefully can get the benefit as below:
+- Identify high-risk customers likely to churn and offer promotions or special incentives to retain them.
+- Enhance services to better meet customer needs, thereby reducing the likelihood of churn.
+- Improve customer service efficiency to decrease the number of calls to customer support.
 
