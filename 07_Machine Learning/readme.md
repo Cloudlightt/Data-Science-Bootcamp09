@@ -4,9 +4,7 @@ This project dives into machine learning, employing a Workflow: Train-Test-Split
 
 "Churn" data represents the rate at which customers discontinue using UCI's telephone service, resembling real customer profiles.
 
-This project dataset is about Churn: Deactivate mobile network
-
-From the provided image, we can conclude that this dataset involves customers of a mobile phone network provider and aims to predict whether each customer will "Churn" or not.
+From the provided image, we can conclude that this dataset involves customers of a mobile phone network provider and aims to predict whether each customer will **Yes** (Customers who churned) or **No** (Customers who did not churn)
 
 Our model development unfolds across three key areas:
 
