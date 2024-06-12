@@ -61,7 +61,7 @@ Extract and transform episode data from the Rick and Morty API into a CSV file. 
 - Creating and manipulating CSV files for data analysis.
 - Discover interesting insights about the quirky universe of Rick and Morty through data.
 
-## 7. Machine Learning: Predicting Customer Churn 🙆‍♀️🙅‍♀️
+## 7. Machine Learning (Scikit-learn Foundation): Predicting Customer Churn 🙆‍♀️🙅‍♀️
 
 Dive into machine learning by predicting customer churn using a supervised learning model. This project includes:
 
