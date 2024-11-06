@@ -6,7 +6,7 @@ Welcome to a series of Python projects that will enhance programming skills. Thi
 ## 1. Final Project: Analyzing Sales Data of a Simulated Superstore  📊
 
 
-In this comprehensive project, you'll analyze the sales data of a simulated Superstore thorough analysis of sales performance, customer behavior, and product trends.
+In this project, you'll analyze sales data from a simulated Superstore, focusing on sales performance, customer behavior, and product trends.
 
 
 ## 2. Create a Game:  Rock Paper Scissors ✊🖐️✌️
