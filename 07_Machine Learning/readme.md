@@ -27,10 +27,10 @@ Four variables are used to predict churn:
 - numbercustomerservicecalls: Number of calls made to customer service
 
 ### 1.2. Model
-The model used to predict churn in this context is the "Generalized Linear Model" (GLM). This model employs machine learning techniques to analyze the relationship between the independent variables (the four variables listed above) and the dependent variable (churn).
+The model used to predict customer churn in this context is the “Generalized Linear Model” (GLM). This model utilizes machine learning techniques to identify and analyze the relationship between the independent variables (the four variables mentioned earlier) and the dependent variable (churn), which represents whether a customer discontinues the service.
 
 ### 1.3. Results
-The GLM created has an accuracy of 85.82%, meaning the model can correctly predict churn in 85.82% of cases
+The GLM created has an accuracy of 85.82%, indicating that the model can correctly predict whether a customer will churn in 85.82% of cases.
 
 
 ## 2. K-Nearest Neighbors (knn) Algorithm.
