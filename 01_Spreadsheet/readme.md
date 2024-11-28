@@ -50,8 +50,9 @@ Welcome to our comprehensive spreadsheet lesson, designed for beginner to advanc
 - [Manipulate Data in Google Sheets](https://docs.google.com/spreadsheets/d/1DYL-tKEyVvqSFRY9yTTuSvey7DYRXm5yqjvSdx_SUS4/edit#gid=0)
 - [Query in Google Sheets](https://docs.google.com/spreadsheets/d/17EM2XVwrwS9wJsub9UXGdRSIBxKdVcrN73jgnC4h28M/edit#gid=0)
 - [Pivot and Chart in Google Sheets](https://docs.google.com/spreadsheets/d/1zpQK-RtAfDN--TiVYVeSO3wd5jFSBYM9y_yDiifDKU8/edit#gid=0&fvid=1587841135)
-- [Full Data Transformations Technique in Google Sheets](https://docs.google.com/spreadsheets/d/1NbtTVmxtulRj2-Uiz34rEDX1DiKTKkBqQaE4_1gAy5M/edit#gid=0)
 - [TO-DO Application](https://docs.google.com/spreadsheets/d/1N9Qs9N7qrhAvioaFxbbpnqgMmet75o2b954Lo2nHX_o/edit#gid=0)
+- [Full Data Transformations Technique in Google Sheets](https://docs.google.com/spreadsheets/d/1NbtTVmxtulRj2-Uiz34rEDX1DiKTKkBqQaE4_1gAy5M/edit#gid=0)
+  
 
 
 ## Project
