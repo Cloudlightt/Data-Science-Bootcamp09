@@ -1,7 +1,7 @@
 # SQL Database
 
 
-This project revolves around managing Pizza orders. It leverages SQL techniques to handle a range of inquiries and aspects of interest. From tracking orders to analyzing customer behavior, the project delves into diverse SQL functionalities to streamline the pizza ordering process and provide insightful analytics as per 3 processes below
+This project revolves around managing Pizza orders. It leverages SQL techniques to handle a range of inquiries and aspects of interest. From tracking orders to analyzing customer behavior, the project delves into diverse SQL functionalities to streamline the pizza ordering process and provide insightful analytics as per 3 processes below:
 
 ### 01 Create tables 
 - Pizza_Menu 🍕
