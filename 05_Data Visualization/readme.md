@@ -3,7 +3,7 @@
 This assignment focuses on utilizing various programs for data visualization.
 
 ### 1. PUBG vs. Freefire case study by Google Sheets
-Comparative Analysis of PUBG and Freefire: Investigating social media engagement within the gaming industry.
+Analyzing social media engagement in Gaming industry - Case study of PUBG vs. Freefire Using Google Sheets
 
 <div align="center">
   
