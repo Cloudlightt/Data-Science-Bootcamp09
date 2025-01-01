@@ -1,7 +1,7 @@
 # Spreadsheet
 Welcome to our comprehensive spreadsheet lesson, designed for beginner to advanced levels in using Google Sheets to effectively handle data and extract insights. Throughout this skill, we'll cover various functions and techniques tailored to specific topics:
 
-1. Basic Operations 🤡: [**Click here**](https://docs.google.com/spreadsheets/d/18N3Twc5MYwSN2hVULo8UlIfEYguVP2p6JtpTr3Brn7A/edit#gid=1110784364)
+1. Basic Operations 🤡: [**Click**](https://docs.google.com/spreadsheets/d/18N3Twc5MYwSN2hVULo8UlIfEYguVP2p6JtpTr3Brn7A/edit#gid=1110784364)
     - Understanding Cell References
     - Working with IF and Array Functions
     - Implementing Nested IF and IFS
@@ -12,7 +12,7 @@ Welcome to our comprehensive spreadsheet lesson, designed for beginner to advanc
       
 
   
-2. Data Manipulation 🤡: [**Click here**](https://docs.google.com/spreadsheets/d/1DYL-tKEyVvqSFRY9yTTuSvey7DYRXm5yqjvSdx_SUS4/edit#gid=0)
+2. Data Manipulation 🤡: [**Click**](https://docs.google.com/spreadsheets/d/1DYL-tKEyVvqSFRY9yTTuSvey7DYRXm5yqjvSdx_SUS4/edit#gid=0)
     - Utilizing COUNTIFS and SUMIFS for Advanced Criteria
     - Filtering Data with FILTER Function
     - Sorting Data Efficiently
@@ -21,7 +21,7 @@ Welcome to our comprehensive spreadsheet lesson, designed for beginner to advanc
     - Handling Dates with DATE & DATEDIF Functions
 
 
-3. Query Function Mastery 🤡: [**Click here**](https://docs.google.com/spreadsheets/d/17EM2XVwrwS9wJsub9UXGdRSIBxKdVcrN73jgnC4h28M/edit#gid=0)
+3. Query Function Mastery 🤡: [**Click**](https://docs.google.com/spreadsheets/d/17EM2XVwrwS9wJsub9UXGdRSIBxKdVcrN73jgnC4h28M/edit#gid=0)
     - Leveraging the QUERY() Function to Extract Data
     - Selecting and Filtering Data Based on Conditions
     - Dealing with Null Values
@@ -29,7 +29,7 @@ Welcome to our comprehensive spreadsheet lesson, designed for beginner to advanc
     - Applying Labels and Ordering Results
     - Crafting Dynamic Queries for Flexibility
 
-4. Pivot and Chart Creation 🤡: [**Click here**](https://docs.google.com/spreadsheets/d/1zpQK-RtAfDN--TiVYVeSO3wd5jFSBYM9y_yDiifDKU8/edit#gid=0&fvid=1587841135)
+4. Pivot and Chart Creation 🤡: [**Click**](https://docs.google.com/spreadsheets/d/1zpQK-RtAfDN--TiVYVeSO3wd5jFSBYM9y_yDiifDKU8/edit#gid=0&fvid=1587841135)
     - Creating Reports and Insights with Pivot Tables
     - Visualizing Data Trends Through Charts
 
@@ -38,7 +38,7 @@ Welcome to our comprehensive spreadsheet lesson, designed for beginner to advanc
    - [**Click here**](https://docs.google.com/spreadsheets/d/1NbtTVmxtulRj2-Uiz34rEDX1DiKTKkBqQaE4_1gAy5M/edit#gid=0)
 
 
-7. Building a Personal To-Do App 🤡: [**Click here**](https://docs.google.com/spreadsheets/d/1N9Qs9N7qrhAvioaFxbbpnqgMmet75o2b954Lo2nHX_o/edit#gid=0)
+7. Building a Personal To-Do App 🤡: [**Click**](https://docs.google.com/spreadsheets/d/1N9Qs9N7qrhAvioaFxbbpnqgMmet75o2b954Lo2nHX_o/edit#gid=0)
     - Learn to Create and Manage Your Task List for Personal Use
    
 
