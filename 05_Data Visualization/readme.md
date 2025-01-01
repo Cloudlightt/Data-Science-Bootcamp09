@@ -1,9 +1,8 @@
-# Data visualization
-
-This assignment focuses on utilizing various programs for data visualization.
+# Data Visualization
+🥎 This assignment focuses on utilizing various programs for data visualization. 🥎
 
 ### 1. PUBG vs. Freefire case study by Google Sheets
-Analyzing social media engagement in Gaming industry - Case study of PUBG vs. Freefire Using Google Sheets
+- Analyzing social media engagement in Gaming industry - Case study of PUBG vs. Freefire Using Google Sheets
 
 <div align="center">
   
@@ -13,7 +12,7 @@ Analyzing social media engagement in Gaming industry - Case study of PUBG vs. Fr
 </div>
 
 ### 2. Mtcars case study by R Programming:
-Analysis of the dataset was sourced from the 1974 Motor Trend US magazine, encompassing fuel consumption and 10 dimensions of automobile design and performance for 32 vehicles (models from 1973 to 1974).
+- Analysis of the dataset was sourced from the 1974 Motor Trend US magazine, encompassing fuel consumption and 10 dimensions of automobile design and performance for 32 vehicles (models from 1973 to 1974).
 
 <div align="center">
 
@@ -23,7 +22,7 @@ Analysis of the dataset was sourced from the 1974 Motor Trend US magazine, encom
 </div>
 
 ### 3. Adidas US Sales case study by Looker Studio & Tableau:
-Analysis an Adidas sales dataset contains information on the sales of Adidas products, including details like units sold, total revenue, sales location, product type, and other relevant information.
+- Analysis an Adidas sales dataset contains information on the sales of Adidas products, including details like units sold, total revenue, sales location, product type, and other relevant information.
 
 <div align="center">
 
