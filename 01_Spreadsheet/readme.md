@@ -34,8 +34,7 @@ Welcome to our comprehensive spreadsheet lesson, designed for beginner to advanc
     - Visualizing Data Trends Through Charts
 
 
-5. Full Data Transformations Technique in Google Sheets 🤡: 
-   - [**Click**](https://docs.google.com/spreadsheets/d/1NbtTVmxtulRj2-Uiz34rEDX1DiKTKkBqQaE4_1gAy5M/edit#gid=0)
+5. Full Data Transformations Technique in Google Sheets 🤡: [**Click**](https://docs.google.com/spreadsheets/d/1NbtTVmxtulRj2-Uiz34rEDX1DiKTKkBqQaE4_1gAy5M/edit#gid=0)
 
 
 7. Building a Personal To-Do App 🤡: [**Click**](https://docs.google.com/spreadsheets/d/1N9Qs9N7qrhAvioaFxbbpnqgMmet75o2b954Lo2nHX_o/edit#gid=0)
