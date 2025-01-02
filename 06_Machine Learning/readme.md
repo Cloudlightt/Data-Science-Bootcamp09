@@ -81,7 +81,7 @@ This optimal k-NN model achieves an accuracy of 88.5%, meaning it correctly pred
   - ![K-Fold Cross Validation (CV)](https://img.shields.io/badge/K--Fold%20Cross%20Validation%20(CV)%20-%20%236886b4?style=flat)
   - ![Adding Classification interface to show the statics results as Precision, Recall, F1, and AUC](https://img.shields.io/badge/Adding%20Classification%20interface%20to%20show%20the%20statics%20results%20as%20Precision%2C%20Recall%2C%20F1%2C%20and%20AUC%20-%20%233f4f68?style=flat)
  
-![Alt text](https://github.com/Cloudlightt/Data-Science-Bootcamp09/blob/main/07_Machine%20Learning/Homework_patr2.1_glm_model.png?raw=true)
+![Alt text](https://github.com/Cloudlightt/Data-Science-Bootcamp09/blob/main/06_Machine%20Learning/Homework_patr2.1_glm_model.png?raw=true)
 
 ### 3.1  Model & Predictive Variables
 Generalized Linear Model (GLM) Results for Predicting Churn
