@@ -15,7 +15,7 @@ Our model development unfolds across three key areas:
    - ![K-Fold Cross Validation (CV)](https://img.shields.io/badge/K--Fold%20Cross%20Validation%20(CV)%20-%20%236886b4?style=flat)
    - ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%20%233f4f68?style=flat)
 
-![Alt text](https://github.com/Cloudlightt/Data-Science-Bootcamp09/blob/main/07_Machine%20Learning/Homework_part1.png?raw=true)
+![Alt text](https://github.com/Cloudlightt/Data-Science-Bootcamp09/blob/main/06_Machine%20Learning/Homework_part1.png?raw=true)
 
 
 ### 1.1 Predictive Variables
@@ -41,7 +41,7 @@ The GLM created has an accuracy of 85.82%, indicating that the model can correct
   - ![Adding Classification interface to show the statics results as Precision, Recall, F1, and AUC](https://img.shields.io/badge/Adding%20Classification%20interface%20to%20show%20the%20statics%20results%20as%20Precision%2C%20Recall%2C%20F1%2C%20and%20AUC%20-%20%233f4f68?style=flat)
   - ![Choosing K score or Manual tune hyperparameter for Grid search type](https://img.shields.io/badge/Choosing%20K%20score%20or%20Manual%20tune%20hyperparameter%20for%20Grid%20search%20type.%20-%20%23878988?style=flat)
 
-![Alt text](https://github.com/Cloudlightt/Data-Science-Bootcamp09/blob/main/07_Machine%20Learning/Homework_patr2_knn_model.png?raw=true)
+![Alt text](https://github.com/Cloudlightt/Data-Science-Bootcamp09/blob/main/06_Machine%20Learning/Homework_patr2_knn_model.png?raw=true)
 
 ### 2.1 Predictive Variables
 
